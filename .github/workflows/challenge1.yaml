@@ -1,4 +1,4 @@
-name: challemge1
+name: challenge1
 on: 
   workflow_dispatch
 jobs:
